@@ -8,17 +8,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=9400D3&center=true&vCenter=true&width=500&height=45&lines=desenvolvedora+em+formação;apaixonada+por+tecnologia" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sardynha&show_icons=true&theme=dracula" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardynha&layout=compact&langs_count=7&theme=dracula" />
-</p>
-
----
-
 ### 🪼 mais sobre mim!
 
 🧩 - hoje moro em santa catarina, brasil, estou no quarto semestre de análise e desenvolvimento 
