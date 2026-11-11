@@ -1,7 +1,7 @@
-<h1 align="center">seja bem vindo, sou a sarah</h1>
+<h1 align="center">seja bem vindo, sou a sarah!</h1>
 
 <p align="center">
-  <strong>💻 atualmente, estudando análise de sistemas</strong><br>
+  <strong>💻 no momento estudando análise de sistemas</strong><br>
   🎓 estudante de <strong>ADS no IFSC</strong><br>
   👾 estágio de <strong>desenvolvimento web na Ajuda Ecommerce</strong>
 </p>
@@ -21,34 +21,27 @@
 
 ### 🪼 mais sobre mim!
 
-- 🌍 **Localização:** santa catarina, brasil
-- 📚 **Formação:** IFSC, quarto semestre
-- 💻 **Foco atual:** desenvolvimento web com **java**, **SQL**, **HTML**, **CSS** e **javascript**
-- 🛠️ **Aprendendo:** php 🍡 · banco de dados relacional 🗂️ · redes 🛜
-- 🧩 **Ferramentas:** git · github · vscode · intellij · figma · postgreSQL · cisco
-- 🎯 **Objetivo:** sempre aprender mais
-- 💬 **gosto de tecnologia, desafios e de transformar ideias em código!**
+🧩 - hoje moro em santa catarina, brasil, estou no quarto semestre de análise e desenvolvimento 
+de sistemas no IFSC, tenho bastante experiencia com desenvolvimento web com **java**, **SQL**, 
+**HTML**, **CSS** e **javascript!** com o objetivo de sempre aprender mais para meu crescimento profissional.
 
 ---
 
-### 🚀 estudando as seguintes tecnologias e ferramentas
+### conhecimento com as seguintes tecnologias e ferramentas :)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="30px" title="Java"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30px" title="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="30px" title="TypeScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30px" title="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30px" title="CSS3"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30px" title="Python"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30px" title="HTML"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30px" title="CSS"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="30px" title="MySQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="30px" title="PostgreSQL"/>
   <img src="https://img.shields.io/badge/SQL-%2300758F?style=for-the-badge&logo=sqlite&logoColor=white" height="30px" title="SQL"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="30px" title="VS Code"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="30px" title="VSCode"/>
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" height="30px" title="NetBeans"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" height="30px" title="Eclipse"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" height="30px" title="PyCharm"/>
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" height="30px" title="IntelliJ IDEA"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30px" title="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30px" title="GitHub"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="30px" title="Figma"/>
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" height="30px" title="Trello"/>
@@ -64,7 +57,7 @@
 
 ---
 
-### 📫 Contato
+### 📫 contate-me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sarah-pacheco-martins-0394ab33a/" target="_blank">
