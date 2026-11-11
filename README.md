@@ -1,4 +1,4 @@
-<h1 align="center">seja bem vinda, sou a sarah</h1>
+<h1 align="center">seja bem vindo, sou a sarah</h1>
 
 <p align="center">
   <strong>💻 atualmente, estudando análise de sistemas</strong><br>
